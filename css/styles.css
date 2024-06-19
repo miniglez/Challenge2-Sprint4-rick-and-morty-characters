@@ -47,7 +47,11 @@ table {
   position: fixed;
   display: flex;
   width: 100%;
-  background-color: #60fbbf;
+  background-color: #95f42f;
+}
+
+body{
+  background-color: #235c11;
 }
 
 .pagination {
